@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "python-automation",
+      "title": "Python Automation with CSV File I/O",
+      "description": "Automate inventory tasks using Python file I/O, CSV processing, and reporting.",
+      "path": "assignments/python-automation",
+      "dueDate": "2026-06-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Inventory Dataset",
+          "file": "inventory.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
