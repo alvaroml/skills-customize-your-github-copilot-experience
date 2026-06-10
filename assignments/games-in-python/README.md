@@ -3,6 +3,7 @@
 ## 🎯 Objective
 
 Build a command-line Hangman game to practice string manipulation, loops, conditionals, user input, and random selection.
+Build a command-line Hangman game to practice string manipulation, loops, conditionals, user input, and random selection.
 
 ## 📝 Tasks
 
@@ -32,4 +33,3 @@ Enter a letter: z
 Wrong guess: _ a _ _ _ _
 Guesses left: 5
 ```
-
